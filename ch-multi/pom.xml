@@ -11,7 +11,12 @@
   <name>Multi Chapter Parent Project</name>
   <modules>
     <module>simple-parent</module>
-  </modules>
+  </modules
+
+
+
+
+
 
   <build>
     <pluginManagement>
